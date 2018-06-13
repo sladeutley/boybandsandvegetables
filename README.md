@@ -1,5 +1,3 @@
-# boybandsandvegetables
-
 # Boy bands and vegetables
 
 ## Setup
